@@ -6,4 +6,4 @@ Le programme nautilus_code_supreme.py  crée des processeurs qui lancent le code
 
 Le programme plot.py reprend les dictionnaires créés avant afin de pouvoir tracer des courbes comme  l’abondance de 4 espèces choisies en fonction du temps, l’évolution temporelle de la distance de désaccord ou encore la température en fonction du temps. 
 
-Le programme select_part.py parcours tous les fichiers et reprend ceux dans lesquels il y a une Abondance supérieure ou égale à l’abondance maximale définit dans le programme, les réarrange dans un bon format ,et les met dans un nouveau dossier. Cela est faite pour prendre des mesures que dans les zones qui sont proches d’un bras spiral d’une galaxie. 
+Le programme select_part.py parcourt tous les fichiers et reprend ceux dans lesquels il y a une Abondance supérieure ou égale à l’abondance maximale définit dans le programme, les réarrange dans un bon format ,et les met dans un nouveau dossier. Cela est faite pour prendre des mesures que dans les zones qui sont proches d’un bras spiral d’une galaxie. 
